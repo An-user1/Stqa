@@ -1,0 +1,12 @@
+Link for downloading files
+
+Prac3:
+For jdk
+https://www.oracle.com/java/technologies/downloads/#jdk19-windows
+
+For Apache jmeter
+https://jmeter.apache.org/download_jmeter.cgi
+
+Prac4:
+For jxl.jar file
+http://www.java2s.com/Code/Jar/j/Downloadjxl26jar.htm
